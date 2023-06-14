@@ -5,7 +5,7 @@ Unless stated otherwise, all codes are authored by myself.
 AERO-4720 Senior Design 2: 
 For this class, myself and 4 others did a detailed design of an orbital class rocket designed to take 75 metric tons of payload to an orbit of 800 km. 
 
-In my group, I was responsible for the propulsion case study to decide on the engines, the CFD analysis of the vehicle at max-q, and the 3-DOF simulation of the launch. I also assisted in sizing the vehicle and creating the CAD model. 
+In my group, I was responsible for the propulsion case study to decide on the engines, the CFD analysis of the vehicle at max-q, the aero analysis of the vehicle (including center of pressure calculations), the 3-DOF simulation of the launch, and the flight termination system. I also assisted in sizing the vehicle and creating the CAD model. 
 
 Included in this folder is the final report created by the group, the 3-DOF simulation of the vehicles launch, and the atmospheric model developed for the 3-DOF. 
 
